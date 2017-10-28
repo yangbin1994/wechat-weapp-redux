@@ -35,5 +35,3 @@ bower_components/
 # do not keep dist
 #dist
 .DS_Store
-
-lib
