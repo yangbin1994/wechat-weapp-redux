@@ -1,5 +1,7 @@
 
-微信小程序Redux绑定，用于在微信小程序为页面绑定Redux Store。
+微信小程序Redux绑定
+=============
+用于在微信小程序为页面绑定Redux Store。
 
 _PS: 代码是基于[react-redux](https://github.com/reactjs/react-redux)修改的_
 
